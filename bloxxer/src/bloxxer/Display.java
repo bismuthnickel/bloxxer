@@ -24,7 +24,7 @@ public class Display extends Canvas implements Runnable {
 	
 	public static final int WIDTH = 800;
 	public static final int HEIGHT = 600;
-	public static final String TITLE = "bloxxer pre-alpha 0.0.2";
+	public static final String TITLE = "bloxxer pre-alpha 0.0.3";
 	public static int fps;
 	
 	private Thread thread;
